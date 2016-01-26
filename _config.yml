@@ -2,6 +2,7 @@ name: AdTechHumor
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.28340485878288746
+title: AdTechHumor
 cta:
   domain: null
   bucket: null
