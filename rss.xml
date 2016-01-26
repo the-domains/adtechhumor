@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[AdTechHumor]]></title>
         <description><![CDATA[AdTechHumor]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/adtechhumor/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 20:08:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Jan 2016 20:12:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/adtechhumor/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>It looks like contamination. Wait, why does this group have more mobile users? This can’t be right. The PSA ads even outperformed my control.</p>]]></description>
+            <link>https://thegrid.ai/adtechhumor/a7b1dd0a-88dd-42a9-9260-07f4f26ad732/index.html</link>
+            <guid isPermaLink="false">a7b1dd0a-88dd-42a9-9260-07f4f26ad732</guid>
+            <pubDate>Tue, 26 Jan 2016 20:12:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[You have a hate/hate relationship with Excel 2011 for Mac]]></title>
-            <description><![CDATA[<article><h1>You have a hate/hate relationship with Excel 2011 for Mac</h1><p>We just spent the last two hours doing pivot tables. Why would you crash summing up a single column?!?!?!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6eba9158da5b555d5afcec45c62723926a8e06fe.png"></article>]]></description>
-            <link>undefinedyou-have-a-hatehate-relationship-with-excel-2011-for-mac/index.html</link>
+            <description><![CDATA[<article><h1>You have a hate/hate relationship with Excel 2011 for Mac</h1><p>We just spent the last two hours doing pivot tables. Why would you crash summing up a single column?!?!?!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/808e5986dfd322e04159c69e78d819f8371f518a.png"></article>]]></description>
+            <link>https://thegrid.ai/adtechhumor/you-have-a-hatehate-relationship-with-excel-2011-for-mac/index.html</link>
             <guid isPermaLink="false">ffa43886-4dd5-483d-88c2-7a7344cb9861</guid>
             <pubDate>Tue, 26 Jan 2016 20:08:23 GMT</pubDate>
         </item>
