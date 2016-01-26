@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[AdTechHumor]]></title>
+        <description><![CDATA[AdTechHumor]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 26 Jan 2016 20:08:43 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[You have a hate/hate relationship with Excel 2011 for Mac]]></title>
+            <description><![CDATA[<article><h1>You have a hate/hate relationship with Excel 2011 for Mac</h1><p>We just spent the last two hours doing pivot tables. Why would you crash summing up a single column?!?!?!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6eba9158da5b555d5afcec45c62723926a8e06fe.png"></article>]]></description>
+            <link>undefinedyou-have-a-hatehate-relationship-with-excel-2011-for-mac/index.html</link>
+            <guid isPermaLink="false">ffa43886-4dd5-483d-88c2-7a7344cb9861</guid>
+            <pubDate>Tue, 26 Jan 2016 20:08:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
